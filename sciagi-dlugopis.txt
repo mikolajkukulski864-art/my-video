@@ -26,31 +26,30 @@ bezwonny, higroskopijny, rozpuszcza się w wodzie, nietrujący. Kremy, leki, E42
 Wykrywanie: glicerol + świeży Cu(OH)2 daje szafirowy roztwór, etanol nie. Odczyn obu obojętny
 Więcej grup OH to lepsza rozpuszczalność w wodzie, większa lepkość, wyższa temp. wrzenia, słodszy smak
 
-Węgiel kamienny z karbonu: GZW Górnośląskie Zagłębie Węglowe, Katowice, Rybnik, Jastrzębie, największe
-LZW Lubelskie Zagłębie Węglowe, kopalnia Bogdanka koło Łęcznej. Wałbrzych zamknięty. Miedź z permu
-LGOM Legnicko-Głogowski Okręg Miedziowy: Lubin, Polkowice, Głogów, Legnica, firma KGHM, też srebro
-Sól kamienna: Kłodawa czynna, Inowrocław, Góra, Mogilno, wszystko na Kujawach, wysady solne z permu
-Wieliczka i Bochnia na Przedgórzu Karpat, najstarsze, zabytki UNESCO. Węgiel brunatny z neogenu, odkrywki
-Bełchatów największa kopalnia, Turów koło Bogatyni, Konin
+Pobrzeża: 1 Pobrzeże Gdańskie, 2 Pobrzeże Koszalińskie, 3 Pobrzeże Szczecińskie
+Pojezierza: 4 Pojezierze Pomorskie, 5 Pojezierze Mazurskie, 6 Pojezierze Wielkopolskie
+Niziny: 7 Nizina Południowowielkopolska, 8 Nizina Śląska, 9 Nizina Mazowiecka, 10 Nizina Podlaska
+11 Polesie Lubelskie. Wyżyny: 12 Wyżyna Śląska, 13 Krakowsko-Częstochowska, 14 Niecka Nidziańska
+15 Wyżyna Kielecka, 16 Wyżyna Lubelska. Kotliny: 17 Oświęcimska, 18 Sandomierska. 19 Pogórze Karpackie
+Karpaty: 20 Tatry, 21 Beskidy. Sudety: 22 Przedgórze Sudeckie, 23 Karkonosze
 
-Zlodowacenia w czwartorzędzie, od najstarszego: Narwi, południowopolskie czyli Sanu, największy zasięg
-do Sudetów i Karpat, środkowopolskie czyli Odry i Warty do Sudetów i wyżyn, północnopolskie czyli Wisły
-najmłodsze, do linii Leszno, Konin, Płock, zostawiło pojezierza, koniec około 12 tys. lat temu
-Cechy terenu: 1 przewaga nizin, 91 procent poniżej 300 m n.p.m., średnia 173 m, góry tylko 3 procent
-2 pasowy równoleżnikowy układ rzeźby: pobrzeża, pojezierza, niziny, wyżyny i kotliny, góry
-3 wzrost wysokości z północy na południe, rzeki płyną na północ. Rysy 2499 m, Raczki Elbląskie minus 1,8 m
+Węgiel kamienny: GZW Górnośląskie Zagłębie Węglowe, Katowice, Rybnik, Jastrzębie, największe w Polsce
+oraz LZW Lubelskie Zagłębie Węglowe, kopalnia Bogdanka koło Łęcznej. Dawniej też Wałbrzych
+Miedź: LGOM Legnicko-Głogowski Okręg Miedziowy, Lubin, Polkowice, Głogów, Legnica, firma KGHM
+Sól kamienna: Kłodawa i Inowrocław na Kujawach, Wieliczka i Bochnia koło Krakowa
+Węgiel brunatny: Bełchatów największa kopalnia, Turów koło Bogatyni, Konin. Kopalnie odkrywkowe
+Śląsk i Lubelskie węgiel kamienny, Dolny Śląsk miedź, Kujawy sól, Bełchatów w łódzkim węgiel brunatny
 
-1 platforma wschodnioeuropejska, prekambryjska, najstarsza, w północno-wschodniej Polsce
-Pojezierze Mazurskie, Podlasie, wschodnie Mazowsze, Lubelszczyzna
-2 platforma zachodnioeuropejska, paleozoiczna, w środkowej, zachodniej i południowo-zachodniej Polsce
-w niej Sudety, Góry Świętokrzyskie, Wyżyna Śląska. 3 Karpaty z zapadliskiem przedkarpackim, alpejskie
-najmłodsze, na południu Polski, z Kotliną Sandomierską i Oświęcimską. Platformy dzieli linia T-T
-czyli strefa szwu transeuropejskiego, biegnie ukośnie od okolic Koszalina do okolic Hrubieszowa
+Zlodowacenia od najstarszego: południowopolskie, środkowopolskie, północnopolskie, przed nimi Narwi
+Południowopolskie czyli Sanu, największe, lód doszedł aż do Sudetów i Karpat
+Środkowopolskie czyli Odry i Warty, do Sudetów i wyżyn. Północnopolskie czyli Wisły, najmłodsze
+doszło do linii Leszno, Konin, Płock, zostawiło pojezierza. Lądolód przyszedł ze Skandynawii
+Cechy terenu: 1 przewaga nizin, 91 procent powierzchni poniżej 300 m n.p.m., średnia wysokość 173 m
+2 pasowy układ rzeźby od morza do gór, 3 wzrost wysokości z północy na południe, rzeki płyną na północ
 
-Fałdowanie kaledońskie, paleozoik, 500 do 400 mln lat temu, powstały Góry Świętokrzyskie i część Sudetów
-Fałdowanie hercyńskie czyli waryscyjskie, karbon, 350 do 280 mln lat temu, powstały Sudety
-i znowu wypiętrzone Góry Świętokrzyskie. Fałdowanie alpejskie, kenozoik, od 65 mln lat temu do dziś
-powstały Karpaty: Tatry, Pieniny, Beskidy, Bieszczady. Wtedy odmłodzone Sudety i Góry Świętokrzyskie
-Kolejność kaledońskie, hercyńskie, alpejskie. Im dalej na południe, tym góry młodsze i wyższe
-Ery: prekambr, paleozoik, mezozoik, kenozoik. Karbon węgiel kamienny, perm miedź i sól, neogen brunatny
-
+Jednostki: 1 platforma wschodnioeuropejska, najstarsza, prekambryjska, północny wschód Polski
+Mazury, Podlasie, wschodnie Mazowsze, Lubelszczyzna. 2 platforma zachodnioeuropejska, paleozoiczna
+środek, zachód i południowy zachód Polski, tu Sudety i Góry Świętokrzyskie. 3 Karpaty, alpejskie, południe
+Granica platform to linia T-T, biegnie ukośnie od Koszalina do Hrubieszowa
+Fałdowania: kaledońskie, najstarsze, Góry Świętokrzyskie. Hercyńskie, Sudety. Alpejskie, najmłodsze, Karpaty
+Im dalej na południe, tym góry młodsze i wyższe. Sudety i Góry Świętokrzyskie odmłodzone w alpejskim
