@@ -1,0 +1,56 @@
+Alkohole to R-OH, grupa funkcyjna hydroksylowa OH. Mono ma 1 grupę OH, poli ma 2 i więcej grup OH
+Wzór ogólny mono CnH2n+1OH, nazwa to alkan + ol. Metanol CH3OH, etanol C2H5OH, propan-1-ol C3H7OH
+butan-1-ol C4H9OH, pentan-1-ol C5H11OH. Półstrukturalny etanol CH3-CH2-OH, propanol CH3-CH2-CH2-OH
+Odczyn obojętny, bo alkohole nie dysocjują, OH nie odrywa się jako jon. 2C2H5OH + 2Na = 2C2H5ONa + H2
+Spalanie całkowite daje CO2 i H2O, półspalanie CO i H2O, niecałkowite C i H2O. Uzgadnianie: najpierw C
+potem H przez 2, potem tlen z prawej minus 1 przez 2. Dłuższy łańcuch to wyższa temp. wrzenia i gęstość
+
+Metanol całk. 2CH3OH + 3O2 = 2CO2 + 4H2O, pół CH3OH + O2 = CO + 2H2O, niecałk. 2CH3OH + O2 = 2C + 4H2O
+Etanol całk. C2H5OH + 3O2 = 2CO2 + 3H2O, pół C2H5OH + 2O2 = 2CO + 3H2O, niecałk. C2H5OH + O2 = 2C + 3H2O
+Propanol całk. 2C3H7OH + 9O2 = 6CO2 + 8H2O, pół C3H7OH + 3O2 = 3CO + 4H2O
+Propanol niecałk. 2C3H7OH + 3O2 = 6C + 8H2O. Butanol całk. C4H9OH + 6O2 = 4CO2 + 5H2O
+Butanol pół C4H9OH + 4O2 = 4CO + 5H2O, niecałk. C4H9OH + 2O2 = 4C + 5H2O
+Glikol 2C2H4(OH)2 + 5O2 = 4CO2 + 6H2O. Glicerol 2C3H5(OH)3 + 7O2 = 6CO2 + 8H2O
+
+Metanol: bezbarwna ciecz, zapach jak etanol, miesza się z wodą, palny. Trujący, 10 cm3 ślepota, 30 cm3 śmierć
+Metanol: rozpuszczalnik, paliwo, formalina, tworzywa sztuczne. Otrzymywanie CO + 2H2 = CH3OH
+Etanol: bezbarwna ciecz, charakterystyczny zapach, wrze w 78 stopniach, pali się niebieskim płomieniem
+miesza się z wodą, ścina białko, uzależnia, niszczy wątrobę. Napoje, dezynfekcja, leki, kosmetyki, perfumy
+rozpuszczalnik, paliwo, denaturat. Fermentacja alkoholowa C6H12O6 = 2C2H5OH + 2CO2 przy udziale drożdży
+Z etenu CH2=CH2 + H2O = CH3-CH2-OH. Metanol, etanol i propanol mieszają się z wodą bez ograniczeń
+
+Glikol etylenowy etano-1,2-diol C2H4(OH)2, wzór CH2OH-CH2OH, 2 grupy OH. Bezbarwna gęsta ciecz, słodkawy
+rozpuszcza się w wodzie, obniża temp. krzepnięcia wody, trujący. Chłodnice, spryskiwacze, tworzywa PET
+Glicerol propano-1,2,3-triol C3H5(OH)3, wzór CH2OH-CHOH-CH2OH, 3 grupy OH. Bezbarwna oleista ciecz, słodki
+bezwonny, higroskopijny, rozpuszcza się w wodzie, nietrujący. Kremy, leki, E422, nitrogliceryna, dynamit
+Wykrywanie: glicerol + świeży Cu(OH)2 daje szafirowy roztwór, etanol nie. Odczyn obu obojętny
+Więcej grup OH to lepsza rozpuszczalność w wodzie, większa lepkość, wyższa temp. wrzenia, słodszy smak
+
+Węgiel kamienny z karbonu: GZW Górnośląskie Zagłębie Węglowe, Katowice, Rybnik, Jastrzębie, największe
+LZW Lubelskie Zagłębie Węglowe, kopalnia Bogdanka koło Łęcznej. Wałbrzych zamknięty. Miedź z permu
+LGOM Legnicko-Głogowski Okręg Miedziowy: Lubin, Polkowice, Głogów, Legnica, firma KGHM, też srebro
+Sól kamienna: Kłodawa czynna, Inowrocław, Góra, Mogilno, wszystko na Kujawach, wysady solne z permu
+Wieliczka i Bochnia na Przedgórzu Karpat, najstarsze, zabytki UNESCO. Węgiel brunatny z neogenu, odkrywki
+Bełchatów największa kopalnia, Turów koło Bogatyni, Konin
+
+Zlodowacenia w czwartorzędzie, od najstarszego: Narwi, południowopolskie czyli Sanu, największy zasięg
+do Sudetów i Karpat, środkowopolskie czyli Odry i Warty do Sudetów i wyżyn, północnopolskie czyli Wisły
+najmłodsze, do linii Leszno, Konin, Płock, zostawiło pojezierza, koniec około 12 tys. lat temu
+Cechy terenu: 1 przewaga nizin, 91 procent poniżej 300 m n.p.m., średnia 173 m, góry tylko 3 procent
+2 pasowy równoleżnikowy układ rzeźby: pobrzeża, pojezierza, niziny, wyżyny i kotliny, góry
+3 wzrost wysokości z północy na południe, rzeki płyną na północ. Rysy 2499 m, Raczki Elbląskie minus 1,8 m
+
+1 platforma wschodnioeuropejska, prekambryjska, najstarsza, w północno-wschodniej Polsce
+Pojezierze Mazurskie, Podlasie, wschodnie Mazowsze, Lubelszczyzna
+2 platforma zachodnioeuropejska, paleozoiczna, w środkowej, zachodniej i południowo-zachodniej Polsce
+w niej Sudety, Góry Świętokrzyskie, Wyżyna Śląska. 3 Karpaty z zapadliskiem przedkarpackim, alpejskie
+najmłodsze, na południu Polski, z Kotliną Sandomierską i Oświęcimską. Platformy dzieli linia T-T
+czyli strefa szwu transeuropejskiego, biegnie ukośnie od okolic Koszalina do okolic Hrubieszowa
+
+Fałdowanie kaledońskie, paleozoik, 500 do 400 mln lat temu, powstały Góry Świętokrzyskie i część Sudetów
+Fałdowanie hercyńskie czyli waryscyjskie, karbon, 350 do 280 mln lat temu, powstały Sudety
+i znowu wypiętrzone Góry Świętokrzyskie. Fałdowanie alpejskie, kenozoik, od 65 mln lat temu do dziś
+powstały Karpaty: Tatry, Pieniny, Beskidy, Bieszczady. Wtedy odmłodzone Sudety i Góry Świętokrzyskie
+Kolejność kaledońskie, hercyńskie, alpejskie. Im dalej na południe, tym góry młodsze i wyższe
+Ery: prekambr, paleozoik, mezozoik, kenozoik. Karbon węgiel kamienny, perm miedź i sól, neogen brunatny
+
