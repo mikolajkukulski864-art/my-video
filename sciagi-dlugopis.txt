@@ -26,30 +26,58 @@ bezwonny, higroskopijny, rozpuszcza się w wodzie, nietrujący. Kremy, leki, E42
 Wykrywanie: glicerol + świeży Cu(OH)2 daje szafirowy roztwór, etanol nie. Odczyn obu obojętny
 Więcej grup OH to lepsza rozpuszczalność w wodzie, większa lepkość, wyższa temp. wrzenia, słodszy smak
 
+Kontrakcja objętości: etanol + woda daje mniejszą objętość niż suma, cząsteczki się zbliżają
+Rzędowość: liczę atomy C połączone z C, przy którym jest OH. 1 C to I-rzędowy, 2 C to II, 3 C to III
+Nazwy: numeruję łańcuch od strony OH. 3-metylobutan-1-ol HO-CH2-CH2-CH(CH3)-CH3
+3-metylobutan-2-ol CH3-CH(OH)-CH(CH3)-CH3. pent-3-en-1,2-diol HO-CH2-CH(OH)-CH=CH-CH3
+Metanol nie barwi papierka, odczyn obojętny. Glicerol bezbarwny, polihydroksylowy, 3 OH, dobrze rozp.
+Alkohol 1 OH i 3 C: C3H7OH propan-1-ol. Spalanie etanolu C2H5OH + 3O2 = 2CO2 + 3H2O
+
 Pobrzeża: 1 Pobrzeże Gdańskie, 2 Pobrzeże Koszalińskie, 3 Pobrzeże Szczecińskie
 Pojezierza: 4 Pojezierze Pomorskie, 5 Pojezierze Mazurskie, 6 Pojezierze Wielkopolskie
-Niziny: 7 Nizina Południowowielkopolska, 8 Nizina Śląska, 9 Nizina Mazowiecka, 10 Nizina Podlaska
+Niziny: 7 Nizina Południowowielkopolska, 8 Nizina Śląska, 9 Nizina Mazowiecka, 10 Nizina Północnopodlaska
 11 Polesie Lubelskie. Wyżyny: 12 Wyżyna Śląska, 13 Krakowsko-Częstochowska, 14 Niecka Nidziańska
 15 Wyżyna Kielecka, 16 Wyżyna Lubelska. Kotliny: 17 Oświęcimska, 18 Sandomierska. 19 Pogórze Karpackie
-Karpaty: 20 Tatry, 21 Beskidy. Sudety: 22 Przedgórze Sudeckie, 23 Karkonosze
+Karpaty: 20 Tatry, 21 Beskidy. Sudety: 22 Przedgórze Sudeckie, 23 Karkonosze. Rysy 2499 m, Śnieżka 1602 m
 
-Węgiel kamienny: GZW Górnośląskie Zagłębie Węglowe, Katowice, Rybnik, Jastrzębie, największe w Polsce
-oraz LZW Lubelskie Zagłębie Węglowe, kopalnia Bogdanka koło Łęcznej. Dawniej też Wałbrzych
-Miedź: LGOM Legnicko-Głogowski Okręg Miedziowy, Lubin, Polkowice, Głogów, Legnica, firma KGHM
-Sól kamienna: Kłodawa i Inowrocław na Kujawach, Wieliczka i Bochnia koło Krakowa
-Węgiel brunatny: Bełchatów największa kopalnia, Turów koło Bogatyni, Konin. Kopalnie odkrywkowe
-Śląsk i Lubelskie węgiel kamienny, Dolny Śląsk miedź, Kujawy sól, Bełchatów w łódzkim węgiel brunatny
+Surowce są nieodnawialne, 4 grupy: energetyczne, metaliczne, chemiczne, skalne. Najwięcej na południu i SW
+Energetyczne: węgiel kamienny, brunatny, ropa, gaz. Metaliczne: rudy miedzi, żelaza, cynku i ołowiu, srebro
+Chemiczne: sól kamienna, sole potasowe, siarka, fosforyty. Skalne: piaski, żwiry, gliny, wapienie, granity
+Węgiel kamienny: Wyżyna Śląska (GZW, Katowice), Wyżyna Lubelska (Bogdanka), dawniej Sudety (Wałbrzych)
+Brunatny: Bełchatów, Konin, Turów koło Bogatyni. Miedź: Nizina Śląska, Lubin, Polkowice, Głogów (LGOM)
+Sól: Wieliczka, Bochnia, Kłodawa, Inowrocław. Siarka: Tarnobrzeg. Cynk i ołów: Olkusz
 
-Zlodowacenia od najstarszego: południowopolskie, środkowopolskie, północnopolskie, przed nimi Narwi
-Południowopolskie czyli Sanu, największe, lód doszedł aż do Sudetów i Karpat
-Środkowopolskie czyli Odry i Warty, do Sudetów i wyżyn. Północnopolskie czyli Wisły, najmłodsze
-doszło do linii Leszno, Konin, Płock, zostawiło pojezierza. Lądolód przyszedł ze Skandynawii
-Cechy terenu: 1 przewaga nizin, 91 procent powierzchni poniżej 300 m n.p.m., średnia wysokość 173 m
-2 pasowy układ rzeźby od morza do gór, 3 wzrost wysokości z północy na południe, rzeki płyną na północ
+Największe znaczenie gospodarcze: węgiel kamienny, węgiel brunatny, rudy miedzi
+Węgiel: energia elektryczna i cieplna. Ropa: benzyna, oleje, asfalt, tworzywa. Gaz: tworzywa, nawozy
+Miedź: kable, przewody, elektronika, rury. Cynk i ołów: mosiądz, akumulatory, ochrona przed korozją
+Sól: przemysł spożywczy i chemiczny (soda, chlor, kwas solny), lecznictwo, posypywanie dróg
+Siarka: kwas siarkowy, guma, zapałki. Skalne: budownictwo, cement, beton, szkło z piasku, ceramika z gliny
+Ropa: Pogórze Karpackie, Kamień Pomorski, Gorzów Wlkp., Bałtyk. Gaz: Pojezierze Wielkopolskie, Pogórze Karp.
 
-Jednostki: 1 platforma wschodnioeuropejska, najstarsza, prekambryjska, północny wschód Polski
-Mazury, Podlasie, wschodnie Mazowsze, Lubelszczyzna. 2 platforma zachodnioeuropejska, paleozoiczna
-środek, zachód i południowy zachód Polski, tu Sudety i Góry Świętokrzyskie. 3 Karpaty, alpejskie, południe
-Granica platform to linia T-T, biegnie ukośnie od Koszalina do Hrubieszowa
-Fałdowania: kaledońskie, najstarsze, Góry Świętokrzyskie. Hercyńskie, Sudety. Alpejskie, najmłodsze, Karpaty
-Im dalej na południe, tym góry młodsze i wyższe. Sudety i Góry Świętokrzyskie odmłodzone w alpejskim
+Polska na styku 3 jednostek: platforma wschodnioeuropejska, obszar fałdowań paleozoicznych i alpejskich
+1 Platforma wschodnioeuropejska, prekambryjska, NE Polska. Fundament krystaliczny + pokrywa skał osadowych
+2 Obszar fałdowań paleozoicznych: Sudety, blok przedsudecki, Góry Świętokrzyskie, platforma paleozoiczna
+3 Obszar fałdowań alpejskich: Karpaty i zapadlisko przedkarpackie na północ od nich. Granica 1 i 2 linia T-T
+Kaledońskie, kambr do sylur: częściowo Góry Świętokrzyskie i Sudety. Hercyńskie, karbon: znowu te same góry
+Alpejskie, kreda do neogen: Karpaty, zapadlisko przedkarpackie, odmłodzenie Sudetów. T-T to strefa uskoków
+
+Prekambr: fundament platformy wschodnioeuropejskiej. Paleozoik: kaledońskie i hercyńskie, trylobity
+Karbon: węgiel kamienny na Wyżynie Śląskiej. Perm: sól koło Inowrocławia, wulkany w Sudetach i koło Krakowa
+Mezozoik: zalewy morskie (transgresje), wapienie i dolomity Wyżyny Krakowsko-Częstochowskiej, Tatr, Pienin
+dinozaury, amonity. Kreda: początek alpejskich. Paleogen: fałdowanie Karpat, odmłodzenie Sudetów, wulkany
+Neogen: zapadlisko przedkarpackie, sól w Wieliczce i Bochni, siarka w Kotlinie Sandomierskiej, węgiel brunatny
+Czwartorzęd: lądolód skandynawski kilka razy, powstało Morze Bałtyckie. Trylobity paleozoik, amonity mezozoik
+
+Cechy terenu: 1 przewaga nizin, 91,3 procent poniżej 300 m n.p.m., średnia 173 m n.p.m., Europa 292 m
+2 nachylenie powierzchni w kierunku północno-zachodnim, stąd kierunek rzek. 3 pasowy układ rzeźby, 6 pasów
+Rysy 2499 m, najniżej Marzęcino na Żuławach minus 2,2 m. Pas kotlin: Oświęcimska, Brama Krakowska, Sandomierska
+Zlodowacenia: południowopolskie (Sanu), środkowopolskie (Odry), północnopolskie (Wisły) od 22 do 12 tys. lat
+Lądolód ze Skandynawii. Północnopolskie objęło ponad 30 procent Polski. W Tatrach i Karkonoszach lodowce górskie
+Formy: morena denna i czołowa, sandry, pradoliny, ozy, rynny z jeziorami rynnowymi, głazy narzutowe
+
+Morena denna: glina polodowcowa po wytopieniu lądolodu, teren płaski lub falisty, jeziora morenowe
+Morena czołowa: wzgórza przed czołem lądolodu podczas jego postoju, z iłu, piasku i żwiru
+Sandry: rozległe równiny z piasku i żwiru naniesionego przez wody roztopowe
+Pradoliny: szerokie doliny prawie równoległe do czoła lądolodu, z wód roztopowych i rzek z południa
+Ozy: wały z piasku i żwiru osadzone w tunelach w lodzie. Rynny: długie wąskie zagłębienia, dziś jeziora
+Głazy narzutowe: skały przyniesione przez lądolód ze Skandynawii. Rzeźba młodoglacjalna na pojezierzach
