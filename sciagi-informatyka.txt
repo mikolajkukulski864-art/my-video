@@ -1,0 +1,13 @@
+Język wewnętrzny (maszynowy): ciąg 0 i 1, jedyny zrozumiały dla procesora, w nim jest program docelowy
+Języki symboliczne (wyższego rzędu): problemowo, proceduralnie, sprzętowo zorientowane, w nich program źródłowy
+Problemowo: wyspecjalizowane mikrosystemy, roboty, obrabiarki. Proceduralnie: uniwersalne, Pascal, C, Basic
+Skryptowe: Python, JavaScript. Kompilacja: cały program naraz, translator. Interpretacja: po 1 instrukcji
+Interpreter: wolniejszy, więcej pamięci, ale od razu wykrywa błędy. Translacja: program źródłowy na docelowy
+Sprzętowo: asembler, zależny od typu procesora. Rozkazy to mnemoniki (skróty 3-4 litery). Asemblacja na binarny
+
+System: mikroprocesor, pamięć operacyjna (RAM, ROM), układy we-wy. Wszystko w 1 układzie to mikrokontroler
+Magistrala danych (data bus) D0-Dn dwukierunkowa, jej szerokość określa długość słowa mikroprocesora
+Pisanie: procesor do pamięci, czytanie: pamięć do procesora. Adresowa A0-An jednokierunkowa, określa pojemność
+Sterująca (control bus) dwukierunkowa, sygnały READY, BUSY, CLK. Rozkaz: faza pobrania i faza wykonania
+Pobranie: etap adresowania (adres na magistrali adresowej) i wyprowadzania (zawartość na magistrali danych)
+Rejestr przechowuje, nie przetwarza. Komórka: adres i zawartość, 8 bitów. Rejestry równoległe i szeregowe
